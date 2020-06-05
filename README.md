@@ -1,13 +1,13 @@
-## Collection of resources to learn Marketing analytics
+## Marketing analytics :tada:
 
-### Books 
+### Books :books:
 
 * [ ] [Hands-On Data Science for Marketing](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-marketing)
 * [ ] [Data Science for Marketing Analytics](https://www.packtpub.com/in/big-data-and-business-intelligence/data-science-marketing-analytics)
 * [ ] [Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights](https://learning.oreilly.com/library/view/product-analytics-applied/9780135258644/)
 * [ ] [Marketing Data Science: Modeling Techniques in Predictive Analytics with R and Python](https://learning.oreilly.com/library/view/marketing-data-science/9780133887662/)
 
-### Courses
+### Courses :computer:
 
 **Coursera**
 
@@ -45,6 +45,6 @@
 
 
 
-### Videos 
+### Videos :tv:
 
-### Tutorials
+### Tutorials :man_technologist:
