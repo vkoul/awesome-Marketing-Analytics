@@ -22,6 +22,16 @@
 * [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics)
 * [ ] [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
 
+**edx**
+
+*Courses*
+* [ ] [Marketing Analytics](https://www.edx.org/course/marketing-analytics)
+* [ ] [Analyzing Social Media Data in R](https://www.datacamp.com/courses/analyzing-social-media-data-in-r)
+
+*Micromasters*
+* [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)
+
+
 **Datacamp**
 
 *Courses*
