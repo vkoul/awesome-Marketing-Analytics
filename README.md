@@ -1,4 +1,6 @@
-## Marketing analytics :tada:
+## Marketing Analytics Resources :tada:
+
+Resources that are useful to learn Marketing Analytics from academic and industial sources. Will keep updating it. 
 
 ### Books :books:
 
@@ -48,3 +50,4 @@
 ### Videos :tv:
 
 ### Tutorials :man_technologist:
+
