@@ -1,6 +1,7 @@
 ## Marketing Analytics Resources :tada:
 
 Resources that are useful to learn Marketing Analytics from academic and industial sources. Will keep updating it. 
+You can fork it to make use of the checkboxes to track your progress. 
 
 ### Books :books:
 
