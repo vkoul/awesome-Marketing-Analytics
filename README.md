@@ -5,10 +5,27 @@ You can fork it to make use of the checkboxes to track your progress.
 
 ### Books :books:
 
-* [ ] [Hands-On Data Science for Marketing](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-marketing)
-* [ ] [Data Science for Marketing Analytics](https://www.packtpub.com/in/big-data-and-business-intelligence/data-science-marketing-analytics)
-* [ ] [Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights](https://learning.oreilly.com/library/view/product-analytics-applied/9780135258644/)
+**Hands on Books :man_technologist:**
+* [ ] [Hands-On Data Science for Marketing](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-marketing)- uses Python
+* [ ] [Data Science for Marketing Analytics](https://www.packtpub.com/in/big-data-and-business-intelligence/data-science-marketing-analytics)- R and Python
+
+* [ ] [Product Analytics: Applied Data Science Techniques for Actionable Consumer Insights](https://learning.oreilly.com/library/view/product-analytics-applied/9780135258644/) - uses R
+
 * [ ] [Marketing Data Science: Modeling Techniques in Predictive Analytics with R and Python](https://learning.oreilly.com/library/view/marketing-data-science/9780133887662/)
+
+* [ ] [R for Marketing Research and Analytics](https://www.springer.com/gp/book/9783319144351) - This uses R. A python version is in development. One of the authors offers a course on choice modeling on datacamp 
+
+* [ ] [Marketing Analytics: Data-Driven Techniques with Microsoft Excel](https://www.wiley.com/en-us/Marketing+Analytics%3A+Data+Driven+Techniques+with+Microsoft+Excel-p-9781118373439) - excel based, the coverage of topics is good
+
+**Conceptual Books** :memo:
+* [ ] [Marketing Strategy: Based on First Principles and Data Analytics](https://www.amazon.in/Marketing-Strategy-Based-Principles-Analytics/dp/1137526238)- the authors have video series based on the book available on Youtube. 
+
+* [ ] [Cutting Edge Marketing Analytics](https://www.amazon.in/Cutting-Edge-Marketing-Analytics-Learning/dp/0133552527)- one of the  author offers a coursera course on marketing analytics 
+
+* [ ] [Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques](https://www.amazon.com/Marketing-Analytics-Practical-Improving-Techniques/dp/0749482168)
+
+* [ ] [Marketing Analytics Roadmap](https://www.apress.com/gp/book/9781484202609)- 
+
 
 ### Courses :computer:
 
