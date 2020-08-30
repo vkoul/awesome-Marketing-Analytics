@@ -46,7 +46,6 @@ You can fork it to make use of the checkboxes to track your progress.
 
 *Courses*
 * [ ] [Marketing Analytics](https://www.edx.org/course/marketing-analytics)
-* [ ] [Analyzing Social Media Data in R](https://www.datacamp.com/courses/analyzing-social-media-data-in-r)
 
 *Micromasters*
 * [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)
@@ -62,7 +61,6 @@ You can fork it to make use of the checkboxes to track your progress.
 *Skill Tracks*
 * [ ] [Marketing Analytics with R](https://www.datacamp.com/tracks/marketing-analytics-with-r)
 * [ ] [Marketing Analytics with Python](https://www.datacamp.com/tracks/marketing-analytics-with-python)
-
 
 
 ### Videos :tv:
