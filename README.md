@@ -1,4 +1,4 @@
-## Marketing Analytics Resources :tada:
+## Marketing Analytics Resources :tada: [![HitCount](http://hits.dwyl.com/vkoul/awesome-Marketing-Analytics.svg)](http://hits.dwyl.com/vkoul/awesome-Marketing-Analytics)
 
 Resources that are useful to learn Marketing Analytics from academic and industial sources. Will keep updating it. 
 You can fork it to make use of the checkboxes to track your progress. 
