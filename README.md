@@ -15,6 +15,12 @@ You can fork it to make use of the checkboxes to track your progress.
 
 * [ ] [R for Marketing Research and Analytics](https://www.springer.com/gp/book/9783319144351) - This uses R. A python version is in development. One of the authors offers a course on choice modeling on datacamp 
 
+* [ ] [Python for Marketing Research and Analytics](https://www.amazon.com/Python-Marketing-Research-Analytics-Schwarz/dp/3030497194) - This uses Python
+
+* [ ] [Data Analysis For Social Science & Marketing Research using Python: A Non-Programmer's Guide](https://www.amazon.com/Analysis-Social-Science-Marketing-Research/dp/0692860827/ref=pd_sbs_5?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=0692860827)
+
+* [ ] [Marketing Models: Multivariate Statistics and Marketing Analytics, 4e](https://www.amazon.com/Marketing-Models-Multivariate-Statistics-Analytics/dp/1539926109/ref=pd_sbs_15?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=1539926109)
+
 * [ ] [Marketing Analytics: Data-Driven Techniques with Microsoft Excel](https://www.wiley.com/en-us/Marketing+Analytics%3A+Data+Driven+Techniques+with+Microsoft+Excel-p-9781118373439) - excel based, the coverage of topics is good
 
 **Conceptual Books** :memo:
@@ -39,16 +45,16 @@ You can fork it to make use of the checkboxes to track your progress.
 * [ ] [Digital Analytics for Marketing Professionals: Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)
 
 *Specialisations*
-* [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics)
-* [ ] [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
+* [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics) - Emory University 
+* [ ] [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics) - ESSEC Business School
 
 **edx**
 
 *Courses*
-* [ ] [Marketing Analytics](https://www.edx.org/course/marketing-analytics)
+* [ ] [Marketing Analytics](https://www.edx.org/course/marketing-analytics)- Offered by Columbia University 
 
 *Micromasters*
-* [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)
+* [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)- Berkley University 
 
 
 **Datacamp**
