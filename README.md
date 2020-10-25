@@ -15,7 +15,9 @@ You can fork it to make use of the checkboxes to track your progress.
 
 * [ ] [R for Marketing Research and Analytics](https://www.springer.com/gp/book/9783319144351) - This uses R. A python version is in development. One of the authors offers a course on choice modeling on datacamp 
 
-* [ ] [Python for Marketing Research and Analytics](https://www.amazon.com/Python-Marketing-Research-Analytics-Schwarz/dp/3030497194) - This uses Python
+* [ ] [Python for Marketing Research and Analytics](https://www.amazon.com/Python-Marketing-Research-Analytics-Schwarz/dp/3030497194) - The python version of the R book. 
+
+* [ ] [Behavioral Data Analysis with R and Python](https://learning.oreilly.com/library/view/behavioral-data-analysis/9781492061366/) 
 
 * [ ] [Data Analysis For Social Science & Marketing Research using Python: A Non-Programmer's Guide](https://www.amazon.com/Analysis-Social-Science-Marketing-Research/dp/0692860827/ref=pd_sbs_5?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=0692860827)
 
