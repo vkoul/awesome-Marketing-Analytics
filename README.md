@@ -19,6 +19,9 @@ You can fork it to make use of the checkboxes to track your progress.
 
 * [ ] [Behavioral Data Analysis with R and Python](https://learning.oreilly.com/library/view/behavioral-data-analysis/9781492061366/) 
 
+* [ ] [Behavioral Research Data Analysis with R](https://www.springer.com/gp/book/9781461412373) 
+
+
 * [ ] [Data Analysis For Social Science & Marketing Research using Python: A Non-Programmer's Guide](https://www.amazon.com/Analysis-Social-Science-Marketing-Research/dp/0692860827/ref=pd_sbs_5?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=0692860827)
 
 * [ ] [Marketing Models: Multivariate Statistics and Marketing Analytics, 4e](https://www.amazon.com/Marketing-Models-Multivariate-Statistics-Analytics/dp/1539926109/ref=pd_sbs_15?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=1539926109)
