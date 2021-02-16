@@ -1,7 +1,13 @@
-## Marketing Analytics Resources :tada: [![HitCount](http://hits.dwyl.com/vkoul/awesome-Marketing-Analytics.svg)](http://hits.dwyl.com/vkoul/awesome-Marketing-Analytics)
+## Marketing Analytics Resources :tada: 
 
 Resources that are useful to learn Marketing Analytics from academic and industial sources. Will keep updating it. 
 You can fork it to make use of the checkboxes to track your progress. 
+
+Made with :heart: by Vikesh. 
+![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
+[![Linkedin: vikeshkoul](https://img.shields.io/badge/-Vikesh%20Koul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikeshkoul@gmail.com)](mailto:vikeshkoul@gmail.com)  
+
 
 ### Books :books:
 
@@ -20,7 +26,6 @@ You can fork it to make use of the checkboxes to track your progress.
 * [ ] [Behavioral Data Analysis with R and Python](https://learning.oreilly.com/library/view/behavioral-data-analysis/9781492061366/) 
 
 * [ ] [Behavioral Research Data Analysis with R](https://www.springer.com/gp/book/9781461412373) 
-
 
 * [ ] [Data Analysis For Social Science & Marketing Research using Python: A Non-Programmer's Guide](https://www.amazon.com/Analysis-Social-Science-Marketing-Research/dp/0692860827/ref=pd_sbs_5?pd_rd_w=Z3Rd1&pf_rd_p=b65ee94e-1282-43fc-a8b1-8bf931f6dfab&pf_rd_r=MEMN864V8JX61QZCRJ1R&pd_rd_r=2d74112f-55c6-4493-b731-4701f8eb7cdd&pd_rd_wg=S2I3b&pd_rd_i=0692860827)
 
