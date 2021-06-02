@@ -48,11 +48,11 @@ Made with :heart: by Vikesh. Say Hi :wave:
 **Coursera**
 
 *Courses*
-* [ ] [Applying Data Analytics in Marketing](https://www.coursera.org/learn/applying-data-analytics-business-in-marketing)
-* [ ] [Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics)
-* [ ] [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics)
-* [ ] [Marketing Analytics: Know your customers](https://www.coursera.org/learn/uva-darden-market-analytics)
-* [ ] [Digital Analytics for Marketing Professionals: Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)
+* [ ] [Applying Data Analytics in Marketing](https://www.coursera.org/learn/applying-data-analytics-business-in-marketing) - UIUC
+* [ ] [Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics)- UVA- Darden
+* [ ] [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) UPenn- Wharton
+* [ ] [Marketing Analytics: Know your customers](https://www.coursera.org/learn/uva-darden-market-analytics) - UVA- Darden
+* [ ] [Digital Analytics for Marketing Professionals: Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)- UIUC
 
 *Specialisations*
 * [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics) - Emory University 
