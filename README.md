@@ -78,6 +78,9 @@ Made with :heart: by Vikesh. Say Hi :wave:
 * [ ] [Marketing Analytics with R](https://www.datacamp.com/tracks/marketing-analytics-with-r)
 * [ ] [Marketing Analytics with Python](https://www.datacamp.com/tracks/marketing-analytics-with-python)
 
+**Udemy**
+* [ ] [Customer Analytics in Python](https://www.udemy.com/course/customer-analytics-in-python/)
+
 
 ### Videos :tv:
 
