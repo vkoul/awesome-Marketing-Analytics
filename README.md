@@ -3,11 +3,10 @@
 Resources that are useful to learn Marketing Analytics from academic and industial sources. Will keep updating it. 
 You can fork it to make use of the checkboxes to track your progress. 
 
-Made with :heart: by Vikesh. Say Hi :wave:
+Made with :heart: by Vikesh.   
+Say Hi :wave:
 ![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
 [![Linkedin: vikeshkoul](https://img.shields.io/badge/-Vikesh%20Koul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikeshkoul@gmail.com)](mailto:vikeshkoul@gmail.com)  
-
 
 ### Books :books:
 
@@ -57,11 +56,12 @@ Made with :heart: by Vikesh. Say Hi :wave:
 *Specialisations*
 * [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics) - Emory University 
 * [ ] [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics) - ESSEC Business School
+* [ ] [Facebook Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) - Facebook Professional Certificate
 
 **edx**
 
 *Courses*
-* [ ] [Marketing Analytics](https://www.edx.org/course/marketing-analytics)- Offered by Columbia University 
+* [ ] ~~[Marketing Analytics](https://www.edx.org/course/marketing-analytics)- Offered by Columbia University~~  _discontinued_
 
 *Micromasters*
 * [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)- Berkley University 
