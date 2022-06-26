@@ -49,8 +49,9 @@ Say Hi :wave:
 *Courses*
 * [ ] [Applying Data Analytics in Marketing](https://www.coursera.org/learn/applying-data-analytics-business-in-marketing) - UIUC
 * [ ] [Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics)- UVA- Darden
+* [ ] [AI in Marketing](https://www.coursera.org/learn/marketing-analytics-customers)- UVA- Darden
 * [ ] [Customer Analytics](https://www.coursera.org/learn/wharton-customer-analytics) UPenn- Wharton
-* [ ] [Marketing Analytics: Know your customers](https://www.coursera.org/learn/uva-darden-market-analytics) - UVA- Darden
+* [ ] [Marketing Analytics: Know your customers](https://www.coursera.org/learn/marketing-analytics-customers) - Macquaire Univ
 * [ ] [Digital Analytics for Marketing Professionals: Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)- UIUC
 
 *Specialisations*
