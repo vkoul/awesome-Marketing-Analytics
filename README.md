@@ -37,6 +37,8 @@ Say Hi :wave:
 
 * [ ] [Cutting Edge Marketing Analytics](https://www.amazon.in/Cutting-Edge-Marketing-Analytics-Learning/dp/0133552527)- one of the  author offers a coursera course on marketing analytics 
 
+* [ ] [Marketing Analytics](https://www.amazon.com/Marketing-Analytics-Essential-Data-Driven-Decisions/dp/0813945151)
+
 * [ ] [Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques](https://www.amazon.com/Marketing-Analytics-Practical-Improving-Techniques/dp/0749482168)
 
 * [ ] [Marketing Analytics Roadmap](https://www.apress.com/gp/book/9781484202609)- 
