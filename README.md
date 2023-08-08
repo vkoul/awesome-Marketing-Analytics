@@ -84,6 +84,9 @@ Say Hi :wave:
 **Udemy**
 * [ ] [Customer Analytics in Python](https://www.udemy.com/course/customer-analytics-in-python/)
 
+**Misc**
+* [ ] [Customer Analytics -University of California, San Diego](https://kennethcwilbur.github.io/mgt100/)
+
 
 ### Videos :tv:
 
