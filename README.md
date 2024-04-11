@@ -57,6 +57,8 @@ Say Hi :wave:
 * [ ] [Digital Analytics for Marketing Professionals: Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)- UIUC
 
 *Specialisations*
+* [ ] [Data Science for Marketing](https://www.coursera.org/specializations/datascienceformarketing) - UC Boulder System
+* [ ] [Machine Learning for Marketing ](https://www.coursera.org/specializations/machine-learning-for-marketing) - OP Jindal Univ
 * [ ] [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics) - Emory University 
 * [ ] [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics) - ESSEC Business School
 * [ ] [Facebook Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) - Facebook Professional Certificate
@@ -67,7 +69,7 @@ Say Hi :wave:
 * [ ] ~~[Marketing Analytics](https://www.edx.org/course/marketing-analytics)- Offered by Columbia University~~  _discontinued_
 
 *Micromasters*
-* [ ] [Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)- Berkley University 
+* [ ] ~~[Marketing Analytics](https://www.edx.org/micromasters/berkeleyx-marketing-analytics)- Berkley University~~ _discontinued_
 
 
 **Datacamp**
