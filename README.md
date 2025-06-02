@@ -89,9 +89,15 @@ Say Hi :wave:
 ### 🏫 Universities   
 * [ ] [Intro to Marketing Analytics- University of California, San Diego](https://kennethcwilbur.github.io/mgta451mktg/)
 * [ ] [Customer Analytics - University of California, San Diego](https://kennethcwilbur.github.io/mgt100/)
+  * [ Youtube ](https://www.youtube.com/playlist?list=PLuO6kjWBBVCOeOi9_5LJ4Ys1XkRDcx5YX)   
 * [ ] [Customer Analytics- Tilburg Univ (Netherlands)](https://github.com/gknox79/customer-analytics)
+
+### Reserach Papers
+* [] [Marketing Analytics Papers Archive](https://drive.google.com/drive/folders/1MJUMKsxdK4eaNMCnE2Njy-sYbr1WeZ7c) 
 
 ### Videos :tv:
 
 ### Tutorials :man_technologist:
+
+
 
