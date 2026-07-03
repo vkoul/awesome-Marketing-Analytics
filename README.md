@@ -76,6 +76,7 @@ Say Hi 👋
 - [ ] [Customer Analytics – Tilburg University](https://github.com/gknox79/customer-analytics)
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform with segmentation and campaign tracking.
 
 ## 📄 Research Papers
 - [ ] [Marketing Analytics Papers Archive (Google Drive)](https://drive.google.com/drive/folders/1MJUMKsxdK4eaNMCnE2Njy-sYbr1WeZ7c)
@@ -102,4 +103,3 @@ Feel free to fork the repo, check resources off as you go, and submit PRs with y
 ## ⭐️ Show Your Support
 
 If you found this helpful, give the repo a ⭐ and share it with friends in marketing, product, or data!
-
