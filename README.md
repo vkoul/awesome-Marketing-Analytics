@@ -82,6 +82,11 @@ Say Hi 👋
 
 ---
 
+## 🛠️ Tools
+- [ ] [AdMapix](https://www.admapix.com/) – AI-native advertising intelligence for researching competitor ad creatives and comparing creative patterns across games, AI apps, and ecommerce.
+
+---
+
 ## 📺 Videos
 _(Coming soon – drop suggestions via Issues or PRs!)_
 
@@ -102,4 +107,3 @@ Feel free to fork the repo, check resources off as you go, and submit PRs with y
 ## ⭐️ Show Your Support
 
 If you found this helpful, give the repo a ⭐ and share it with friends in marketing, product, or data!
-
