@@ -88,7 +88,7 @@ _(Coming soon – drop suggestions via Issues or PRs!)_
 ---
 
 ## 🧑‍💻 Tutorials
-_(Coming soon – feel free to contribute!)_
+- [ ] [Reach, views, likes and engagement rate (Italian)](https://acquistarefollower.it/guides/copertura-visualizzazioni-mi-piace-tasso-engagement) – Beginner tutorial with a worked comparison of follower-, reach-, and view-based engagement rates, metric definitions, and interpretation limits. Includes a free browser calculator and weekly tracking workbook.
 
 ---
 
