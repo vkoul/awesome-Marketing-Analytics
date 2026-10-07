@@ -30,6 +30,7 @@ Say Hi 👋
 - [ ] [Marketing Analytics (Essential Guide)](https://www.amazon.com/Marketing-Analytics-Essential-Data-Driven-Decisions/dp/0813945151)
 - [ ] [Marketing Analytics: A Practical Guide](https://www.amazon.com/Marketing-Analytics-Practical-Improving-Techniques/dp/0749482168)
 - [ ] [Marketing Analytics Roadmap](https://www.apress.com/gp/book/9781484202609)
+- [ ] [The Complete Guide to DV360 (in Russian)](https://aksanov.digital/books/dv360) – free PDF; measurement, attribution and reporting in Google Display & Video 360
 
 ---
 
