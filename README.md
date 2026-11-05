@@ -88,7 +88,8 @@ _(Coming soon – drop suggestions via Issues or PRs!)_
 ---
 
 ## 🧑‍💻 Tutorials
-_(Coming soon – feel free to contribute!)_
+- [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - A practical worksheet for CPM, CTR, CPC, cost per qualified conversation or trial, CAC, and ROAS, with notes on attribution limits.
+
 
 ---
 
